@@ -1,0 +1,41 @@
+.title-div {
+    content: '';
+    border-bottom: 5px solid rgb(247, 245, 245);
+    width: 30%;
+    left: 0;
+    margin-bottom: 5px;
+  }
+  .title-txt {
+      -webkit-text-stroke: 2px rgba(243, 239, 239, 0.623);
+  }
+  .position-txt {
+    color: #fff !important;
+    -webkit-text-stroke: 2px rgba(5, 5, 5, 0.336);
+  }
+  .info-content {
+    font-family: Nunito,sans-serif;
+    padding: 30px;
+    background-color: #114673;
+    color: #fff !important;
+    box-shadow: 0 2.8px 2.2px #1046739e, 
+    0 6.7px 5.3px #104673a6, 
+    0 12.5px 10px #10467300, 
+    0 22.3px 17.9px #10467300, 
+    0 41.8px 33.4px #10467300, 
+    0 100px 80px #10467300;
+    .intro-txt {
+        padding-bottom: 5px;
+        font-size: 40px;
+    }
+  }
+  .circle-pp {
+    position: absolute;
+    top: -95px;
+    right: 30%;
+    width: 200px;
+    height: 200px;
+    border-radius: 305px;
+    background-image: url(/images/pp.png);
+    background-size: cover;
+    // background: #4da6ff;
+  }
