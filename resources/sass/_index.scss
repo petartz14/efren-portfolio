@@ -39,3 +39,23 @@
     background-size: cover;
     // background: #4da6ff;
   }
+
+  @media (max-width: 1680px) {
+    .info-content {
+      text-align: center; 
+    } 
+  }
+  @media (max-width: 680px) {
+    .info-content {
+      padding: 48px 20px;
+      margin: 15px; 
+      margin-top: 80px;
+    } 
+    .circle-pp {
+      right: 25% !important;
+      width: 150px !important;
+      height: 150px !important;
+      border-radius: 305px !important;
+      top: -60px !important;
+    }
+  }

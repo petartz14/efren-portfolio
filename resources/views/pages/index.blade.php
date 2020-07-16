@@ -6,7 +6,7 @@
 		<div class="single_slide_banner slide_bg1">
 			<div class="container">
 				<div class="row fullscreen d-flex align-items-center">
-					<div class="banner-content col-lg-6 justify-content-center">
+					<div class="banner-content col-md-6 justify-content-center">
 						<h1 class="title-txt" style="margin-bottom: 0;">Efren Petarte Jr.</h1>
 						<div class="title-div">
 						</div>
@@ -14,7 +14,7 @@
 						<a href="#" class="genric-btn info circle">My Portfolio</a>
 						<a href="/images/Resume.pdf" target="_blank" class="genric-btn success circle">My CV/Resume</a>
 					</div>
-					<div class="info-content col-lg-6 justify-content-center">
+					<div class="info-content col-md-6 justify-content-center">
         				<span class="circle-pp"></span>
 						<div class="intro-txt" style="margin-bottom: 0; padding-top: 65px;">Introduction</div>
 						<div class="intro-div">
