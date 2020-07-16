@@ -19,8 +19,8 @@
 						<div class="intro-txt" style="margin-bottom: 0; padding-top: 65px;">Introduction</div>
 						<div class="intro-div">
 						</div>
-						<p class="details-txt">Hello, my name is Efren Petarte Jr. I am a Junior Web Developer and have a 3 years experience on web developer field. I live in Boyog Proper, Balilihan, Bohol. I graduated from Bohol Island State University (BISU) - Balilihan Campus with Bachelor of Science in Information Technology.</p>
-						<p>Laravel framework and Vue Js is my experties. I been using laravel + vuejs for almost 2 and half years and I'm knowlegable on php, javascript, mysql, bootstrap, jquery, node js, npm. I started learning another js like react js, angular js and I also studiying IOS and Android Development using Ionic Framework with angular js.</p>
+						<p class="details-txt">Hi. I am Efren Petarte Jr. A resident of Boyog Proper, Balilihan, Bohol. I am a degree holder of Bachelor of Science in Information Technology from Bohol Island State University - Balilihan Campus.</p>
+						<p>As a Junior Web Developer, Laravel Framework and Vue Js are my experties. I've been using/handling this platform for almost 3 years. I also have a strong knowledge on Php, Javascipt, MySQL, Bootstrap, JQuery, Node JS and NPM. I am also starting to learn more about React JS, Angular JS and still learning on how to develop IOS and Android Development through Ionic Framework with Angular JS.</p>
 						<a href="#" class="genric-btn info circle arrow">Read More<span class="lnr lnr-arrow-right"></span></a>
 					</div>
 				</div>
