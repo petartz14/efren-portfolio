@@ -314,6 +314,7 @@ button:focus {
 ============================================================================================ */
 .banner-area .single_slide_banner {
   background-size: cover;
+  margin-top: -25px;
   background-repeat: no-repeat; }
 .banner-area .slide_bg1 {
   background: url(../img/banner/banner1.jpg); }
@@ -330,6 +331,7 @@ button:focus {
     .banner-content {
       padding: 48px 20px;
       background: #fff;
+      top: 25px;
       margin: 15px; } }
   .banner-content .primary-btn {
     background: #e45447;
